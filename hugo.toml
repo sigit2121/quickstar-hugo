@@ -1,0 +1,4 @@
+baseURL = 'https://miraidev.org/'
+languageCode = 'en-us'
+title = 'My Miraidev site'
+theme = 'tale'
